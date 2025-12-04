@@ -1,10 +1,5 @@
-baronongini	Shirui  Kashong (Peak), Shiroi National Park, Manipur, India	Endemic
-kashongensis	Shirui  Kashong (Peak), Shiroi National Park, Manipur, India	Endemic
-kwathensis	Yangoupokpi-Lokchao Wildlife Sanctuary, Manipur, India	Endemic
-lamdengensis	Lamdeng Makhaleikai forest range, Manipur, India	Endemic
-lokchaensis	Yangoupokpi-Lokchao Wildlife Sanctuary, Manipur, India	Endemic
-morehensis	Yangoupokpi-Lokchao Wildlife Sanctuary, Manipur, India	Endemic
-shiroensis	Shirui  Kashong (Peak), Shiroi National Park, Manipur, India	Endemic
-tengnoupalensis	Yangoupokpi-Lokchao Wildlife Sanctuary, Manipur, India	Endemic
-ukhrulensis	Shirui  Kashong (Peak), Shiroi National Park, Manipur, India	Endemic
-yangoupokpensis	Yangoupokpi-Lokchao Wildlife Sanctuary, Manipur, India	Endemic
+gouri	Dr. Harisingh Gour Vishwavidyalaya (A Central University) Sagar, Madhya Pradesh, India	Endemic
+heingangensis	Heingang, Manipur, India	Endemic
+karatala	Ranipuram, Kerala, India	Endemic
+laichingensis	Yangoupokpi-Lokchao Wildlife Sanctuary, Tengnoupal, Manipur, India	Endemic
+leibiensis	Yangoupokpi-Lokchao Wildlife Sanctuary, Tengnoupal, Manipur, India	Endemic
