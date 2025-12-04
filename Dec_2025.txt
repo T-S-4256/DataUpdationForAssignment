@@ -1,10 +1,5 @@
-Acanthodrilidae	Eutyphoeus 	baronongini	Tiwari & Yadav, 2025
-Acanthodrilidae	Eutyphoeus 	kashongensis	Tiwari & Yadav, 2025
-Acanthodrilidae	Eutyphoeus 	kwathensis	Tiwari & Yadav, 2025
-Acanthodrilidae	Eutyphoeus	lamdengensis	Tiwari & Yadav, 2025
-Acanthodrilidae	Eutyphoeus	lokchaensis	Tiwari & Yadav, 2025
-Acanthodrilidae	Eutyphoeus 	morehensis	Tiwari & Yadav, 2025
-Acanthodrilidae	Eutyphoeus 	shiroensis	Tiwari & Yadav, 2025
-Acanthodrilidae	Eutyphoeus 	tengnoupalensis	Tiwari & Yadav, 2025
-Acanthodrilidae	Eutyphoeus 	ukhrulensis	Tiwari & Yadav, 2025
-Acanthodrilidae	Eutyphoeus 	yangoupokpensis	Tiwari & Yadav, 2025
+Moniligastridae	Drawida	gouri 	Tiwari & Yadav, 2025
+Moniligastridae	Drawida	heingangensis	Tiwari & Yadav, 2025
+Moniligastridae	Drawida	karatala	Narayanan, Paliwal & Julka, 2025
+Moniligastridae	Drawida	laichingensis	Tiwari & Yadav, 2025
+Moniligastridae	Drawida	leibiensis	Tiwari & Yadav, 2025
