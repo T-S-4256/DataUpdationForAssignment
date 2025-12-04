@@ -1,5 +1,10 @@
-Megascolecidae	Kanchuria	priyasankari	Narayanan, Paliwal & Julka, 2025
-Megascolecidae	Kanchuria	tripuraensis	Narayanan, Paliwal & Julka, 2025
-Lone, Thakur, Tiwari, James & Yadav, 2022
-Megascolecidae	Megascolex	phaseolus	Stephenson, 1915
-Lone, Thakur, Tiwari, James & Yadav, 2022
+Acanthodrilidae	Eutyphoeus 	baronongini	Tiwari & Yadav, 2025
+Acanthodrilidae	Eutyphoeus 	kashongensis	Tiwari & Yadav, 2025
+Acanthodrilidae	Eutyphoeus 	kwathensis	Tiwari & Yadav, 2025
+Acanthodrilidae	Eutyphoeus	lamdengensis	Tiwari & Yadav, 2025
+Acanthodrilidae	Eutyphoeus	lokchaensis	Tiwari & Yadav, 2025
+Acanthodrilidae	Eutyphoeus 	morehensis	Tiwari & Yadav, 2025
+Acanthodrilidae	Eutyphoeus 	shiroensis	Tiwari & Yadav, 2025
+Acanthodrilidae	Eutyphoeus 	tengnoupalensis	Tiwari & Yadav, 2025
+Acanthodrilidae	Eutyphoeus 	ukhrulensis	Tiwari & Yadav, 2025
+Acanthodrilidae	Eutyphoeus 	yangoupokpensis	Tiwari & Yadav, 2025
