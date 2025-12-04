@@ -1,5 +1,10 @@
-Moniligastridae	Drawida	gouri 	Tiwari & Yadav, 2025
-Moniligastridae	Drawida	heingangensis	Tiwari & Yadav, 2025
-Moniligastridae	Drawida	karatala	Narayanan, Paliwal & Julka, 2025
-Moniligastridae	Drawida	laichingensis	Tiwari & Yadav, 2025
-Moniligastridae	Drawida	leibiensis	Tiwari & Yadav, 2025
+baronongini	Shirui  Kashong (Peak), Shiroi National Park, Manipur, India	Endemic
+kashongensis	Shirui  Kashong (Peak), Shiroi National Park, Manipur, India	Endemic
+kwathensis	Yangoupokpi-Lokchao Wildlife Sanctuary, Manipur, India	Endemic
+lamdengensis	Lamdeng Makhaleikai forest range, Manipur, India	Endemic
+lokchaensis	Yangoupokpi-Lokchao Wildlife Sanctuary, Manipur, India	Endemic
+morehensis	Yangoupokpi-Lokchao Wildlife Sanctuary, Manipur, India	Endemic
+shiroensis	Shirui  Kashong (Peak), Shiroi National Park, Manipur, India	Endemic
+tengnoupalensis	Yangoupokpi-Lokchao Wildlife Sanctuary, Manipur, India	Endemic
+ukhrulensis	Shirui  Kashong (Peak), Shiroi National Park, Manipur, India	Endemic
+yangoupokpensis	Yangoupokpi-Lokchao Wildlife Sanctuary, Manipur, India	Endemic
